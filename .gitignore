@@ -1,0 +1,13 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Intermediate data files we generate
+expr_by_library.tsv.gz
+meta_by_library.tsv
+gene_symbols.tsv
