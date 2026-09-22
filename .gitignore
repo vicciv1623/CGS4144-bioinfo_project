@@ -10,4 +10,3 @@ __pycache__/
 # Intermediate data files we generate
 expr_by_library.tsv.gz
 meta_by_library.tsv
-gene_symbols.tsv
